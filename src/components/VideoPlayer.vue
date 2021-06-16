@@ -12,7 +12,6 @@
                 :loop="loop"
                 :preload="preload"
                 :style="styleObject"
-                controls
             >
                 <source
                     :src="src"
