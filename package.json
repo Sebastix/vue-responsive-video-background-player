@@ -1,6 +1,6 @@
 {
-  "name": "vue-responsive-video-background-player",
-  "version": "2.1.3",
+  "name": "vue-responsive-video-background-player-sebastix",
+  "version": "1.0.0",
   "description": "Play your own videos in background responsively",
   "main": "dist/index.common.js",
   "unpkg": "dist/index.umd.min.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/avidofood/vue-responsive-video-background-player.git"
+    "url": "git://github.com/sebastix/vue-responsive-video-background-player.git"
   },
   "keywords": [
     "vue 3",
